@@ -1,0 +1,25 @@
+{
+    "name": "verboflex-cli",
+    "description": "Conjugate verbs in a variety of languages",
+    "author": {
+        "name": "Javier Poremski",
+        "email": "javier@poremski.se"
+    },
+    "version": "0.1.0",
+    "binaryname": "verboflex",
+    "frontend": {
+        "dir": "frontend",
+        "install": "npm install",
+        "build": "npm run build",
+        "bridge": "src",
+        "serve": "npm run start"
+    },
+    "tags": "",
+    "WailsVersion": "",
+    "CrossCompile": false,
+    "Platform": "",
+    "Architecture": "",
+    "LdFlags": "",
+    "GoPath": "",
+    "UseFirebug": false
+}
